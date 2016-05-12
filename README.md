@@ -1,4 +1,4 @@
-# AndroidLogin
+# AndroidSetupWizard
 App that automatically completes the Android Setup Wizard.
 
 About
