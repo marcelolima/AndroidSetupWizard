@@ -1,5 +1,5 @@
 # AndroidLogin
-App for doing the Android Presetup steps after the device is flashed or reset.
+App that automatically completes the Android Setup Wizard.
 
 About
 =====
